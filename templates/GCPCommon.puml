@@ -31,8 +31,8 @@ skinparam rectangle {
 }
 
 skinparam Arrow {
-    Color #666666
-    FontColor #666666
+    Color #4284F3
+    FontColor #4284F3
     FontSize 12
 }
 
